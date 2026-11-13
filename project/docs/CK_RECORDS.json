@@ -1,0 +1,72 @@
+{
+  "display_name": "Stamina On Hit - By Naens",
+  "version": "1.1.0",
+  "plugin": "Nackufu_Stamina_on_Hit_LE.esp",
+  "format_version": 43,
+  "master": "Skyrim.esm",
+  "quests": [
+    {
+      "form_id": "01000800",
+      "editor_id": "NSH_Controller",
+      "quest_script": null,
+      "alias_script": "NSH_PlayerAlias",
+      "flags": [
+        "Start Game Enabled",
+        "Run Once"
+      ],
+      "alias_id": 0,
+      "forced_reference": "00000014",
+      "alias_flags": [
+        "Allow Dead",
+        "Allow Reserved"
+      ]
+    },
+    {
+      "form_id": "01000801",
+      "editor_id": "NSH_MCMQuest",
+      "quest_script": "NSH_MCM",
+      "alias_script": "SKI_PlayerLoadGameAlias",
+      "flags": [
+        "Start Game Enabled",
+        "Run Once"
+      ],
+      "alias_id": 0,
+      "forced_reference": "00000014",
+      "alias_flags": [
+        "Allow Dead",
+        "Allow Reserved"
+      ]
+    }
+  ],
+  "globals": [
+    {
+      "form_id": "01000810",
+      "editor_id": "NSH_PlayerEnabled",
+      "type": "float",
+      "default": 1,
+      "constant": false
+    },
+    {
+      "form_id": "01000811",
+      "editor_id": "NSH_NPCEnabled",
+      "type": "float",
+      "default": 1,
+      "constant": false
+    },
+    {
+      "form_id": "01000812",
+      "editor_id": "NSH_PlayerAmount",
+      "type": "float",
+      "default": 10,
+      "constant": false
+    },
+    {
+      "form_id": "01000813",
+      "editor_id": "NSH_NPCAmount",
+      "type": "float",
+      "default": 10,
+      "constant": false
+    }
+  ],
+  "vanilla_overrides": []
+}

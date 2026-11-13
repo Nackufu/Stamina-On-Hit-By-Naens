@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fomod>
+  <Name>Stamina On Hit - By Naens</Name>
+  <Author>Naens</Author>
+  <Version>1.1.0</Version>
+  <Description>Player and NPC melee-hit stamina with independent SkyUI MCM controls. Default 10; range 0-100. Blocked and power attacks included. Skyrim LE 1.9.32, SKSE 1.7.3, SkyUI 5.1 LE. This update needs in-game validation.</Description>
+</fomod>

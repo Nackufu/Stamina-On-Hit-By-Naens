@@ -1,0 +1,13 @@
+{
+  "release_filename": "Stamina_On_Hit_By_Naens_1.1.0.zip",
+  "release_sha256": "546d257be001fe7ff195d8bfd21d93044e7ed019f5aad0eaf43d4adb22916ec6",
+  "runtime_files": {
+    "Data/Nackufu_Stamina_on_Hit_LE.esp": "911428bad5739679952eb2c7893e118cc85727ee8ecc357b5a04370c9141ed75",
+    "Data/SEQ/Nackufu_Stamina_on_Hit_LE.seq": "ea227462a3e81d549c28172ed9f54cc24305c53982d5dcda9816fc12e4e248ad",
+    "Data/SKSE/Plugins/NackufuStaminaOnHitLE.dll": "2c4de5fab66ef19a27d17274c3f135c0f059deed1dfebc5b2fdfba6f7ced6ab6",
+    "Data/Scripts/NSH_MCM.pex": "7cf9578460de3075ae5c475911e5fc9ffc7238d925734eda983b764bd3a29811",
+    "Data/Scripts/NSH_PlayerAlias.pex": "06466f10b7c9f7152e1615a2db96cc099e92ddb928a71fc8bc29fb37e3896092",
+    "Data/Scripts/Source/NSH_MCM.psc": "d1fdce1762d308c9b86152ab147f7475883bd4e232a3aa12947c07d6f3832463",
+    "Data/Scripts/Source/NSH_PlayerAlias.psc": "6707ed1fb7096f2e8186175f54dc2273a2c062f2a802e867d959bf6eb445ff72"
+  }
+}
