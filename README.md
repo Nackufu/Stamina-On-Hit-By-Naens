@@ -1,6 +1,6 @@
 # Stamina On Hit - By Naens 1.1.0: source for review
 
-This repository contains the source extracted, without changes, from the Developer directory of the distributed 1.1.0 release. It is provided to support manual review of the quarantined Nexus Mods upload. It does not assert that the upload is approved or that its quarantine is a false positive.
+This repository contains the source extracted from the Developer directory of the distributed 1.1.0 release. Gameplay source is unchanged. The native build helper now creates its output directory when absent, so a fresh GitHub download builds without relying on empty-folder placeholder files. The source checksum list covers the files published in this repository. It is provided to support manual review of the quarantined Nexus Mods upload. It does not assert that the upload is approved or that its quarantine is a false positive.
 
 ## Purpose and implementation
 

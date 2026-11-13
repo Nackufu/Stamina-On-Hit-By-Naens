@@ -1,6 +1,6 @@
 {
-  "project/Data/SEQ/.keep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "project/Data/SKSE/Plugins/.keep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "README.md": "fb25d4fe121a296daff43ee32907832628b924ec613a8bdb1d1dc31a93795c47",
+  "RELEASE_SHA256.json": "0ca8e91d8516458fd89fea57cf86abfce2b17216df2f9beb8b2409d2389c9640",
   "project/Data/Scripts/Source/NSH_MCM.psc": "d1fdce1762d308c9b86152ab147f7475883bd4e232a3aa12947c07d6f3832463",
   "project/Data/Scripts/Source/NSH_PlayerAlias.psc": "6707ed1fb7096f2e8186175f54dc2273a2c062f2a802e867d959bf6eb445ff72",
   "project/OriginalPrototype/README_TR.txt": "d139184f8eecb6318d656fc5547b770b48c67a458c79808033770ffef6176244",
@@ -45,13 +45,9 @@
   "project/third_party/minhook/src/hook.c": "3060d3c42f03a2f11324cbee95d853071757ed0fe4b1bc9eb5f0d8fc9e346a37",
   "project/third_party/minhook/src/trampoline.c": "d837f8555681c3762468d712c43f2064ed31dee610e0b02965fd8aa54b88172f",
   "project/third_party/minhook/src/trampoline.h": "27426751dde36cdd8346469e61cdcca47950b1056a69f21cc63f4b41743faf6a",
-  "project/tools/build_native.py": "d6d2d89a92f6d6f390effab88900927c221b7f4dab475168b4083831555b6c1c",
+  "project/tools/build_native.py": "da594ec1c21fc2836596595d4ee303acacb7da9550966e69bd0579dcc47bcb60",
   "project/tools/build_records.py": "e7a8063e18db339ee4433581482247159177fca876a3a15affa5025d98b97295",
   "project/tools/compile_ck.cmd": "8f93401f7dd25cf816acff7f690fb3e097ea48e10062cfa4c04027c6048d83a7",
   "project/tools/compile_papyrus.py": "81926c4bd51676139d41300db3f4e04a9bab4d4257656caef50d504d5d4139ce",
-  "project/tools/package.py": "7f0d414c1442b16f94989a98e514815436ba7019ba16cfe9fd6cc984fec7b465",
-  "RELEASE_SHA256.json": "0ca8e91d8516458fd89fea57cf86abfce2b17216df2f9beb8b2409d2389c9640",
-  "README.md": "09767b3a7164e482ef7de43e7f67c5cbcad18d5bc35467f9c9515b41d03922da",
-  "NEXUS_REVIEW_EMAIL.txt": "4309c64c509127532de8f9b96691740250c39a6f173b8b92cd36cfe7d3a21f21",
-  "BASLANGIC_TR.md": "a55907da8f4f815761897f81ec64668069222fef19ad56f0c15cec90c8a0f873"
+  "project/tools/package.py": "7f0d414c1442b16f94989a98e514815436ba7019ba16cfe9fd6cc984fec7b465"
 }
