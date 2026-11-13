@@ -19,5 +19,7 @@ cmd += ['-lshell32','-o',str(out)]
 subprocess.run(cmd,check=True)
 if not test:
     import shutil
-    shutil.copy2(out,ROOT/'Data/SKSE/Plugins'/out.name)
+    destination = ROOT/'Data/SKSE/Plugins'
+    destination.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(out,destination/out.name)
 print(out)
